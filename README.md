@@ -10,7 +10,7 @@
 ## **Analysis and Challenges** 
  
 ### Analysis of Outcomes Based on Launch Date 
-![Theater Outcomes Based on Launch](C:/Users/Ruth/OneDrive/Desktop/HW1_Submission_Excel/HW1_Submission_Excel/Resources/Theater_Outcomes_vs_Launch.png) 
+![Theater Outcomes Based on Launch](./Theater_Outcomes_vs_Launch.png) 
  
 * We can see from the chart (blue line) that the total number of Successful campaigns are high in the month of May, June and July. 
 
@@ -18,7 +18,7 @@
  
 ### Analysis of Outcomes Based on Goals 
 
-![Outcomes_vs_Goals](C:/Users/Ruth/OneDrive/Desktop/HW1_Submission_Excel/HW1_Submission_Excel/Resources/Outcomes_vs_Goals.png) 
+![Outcomes_vs_Goals](./Outcomes_vs_Goals.png) 
  
 * We can see from the chart that percentage successful is highest (76%) when Goals are <1000, followed by (73%) When Goals are between 1000 and 5000. This percentage successful is relative to number failed for each row. We can see from the table on `Outcomes Based on Goals` worksheet that total number of successful campaigns are highest(388) when goals are between 1000 and 5000.
 
