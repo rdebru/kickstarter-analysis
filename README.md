@@ -10,7 +10,7 @@
 ## **Analysis and Challenges** 
  
 ### Analysis of Outcomes Based on Launch Date 
-![Theater Outcomes Based on Launch](C:\Users\Ruth\OneDrive\Desktop\HW1_Submission_Excel\HW1_Submission_Excel\Resources\Theater_Outcomes_vs_Launch.png) 
+![Theater Outcomes Based on Launch](C:C:/Users/Ruth/OneDrive/Desktop/HW1_Submission_Excel/HW1_Submission_Excel/Resources/Theater_Outcomes_vs_Launch.png) 
  
 * We can see from the chart (blue line) that the total number of Successful campaigns are high in the month of May, June and July. 
 
