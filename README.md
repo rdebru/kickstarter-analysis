@@ -1,7 +1,7 @@
 # **Kickstarting with Excel**
 	
 ## **Overview of Project** 
-* Louise wants to start a crowdfunding campaign to fund her play ìFeverî. Her estimated budget is over $10,000. By analyzing, organizing, and visualizing the crowdfunding data, we will be able to help her plan her campaign and determine whether there are specific factors that make the campaign successful.
+* Louise wants to start a crowdfunding campaign to fund her play ‚ÄúFever‚Äù. Her estimated budget is over $10,000. By analyzing, organizing, and visualizing the crowdfunding data, we will be able to help her plan her campaign and determine whether there are specific factors that make the campaign successful.
  
 ### Purpose 
  
@@ -10,7 +10,7 @@
 ## **Analysis and Challenges** 
  
 ### Analysis of Outcomes Based on Launch Date 
-![Theatre Outcomes Based on Launch](C:\Users\Ruth\OneDrive\Desktop\HW1_Submission_Excel\HW1_Submission_Excel\Resources\Theater_Outcomes_vs_Launch.png) 
+![Theater Outcomes Based on Launch](C:\Users\Ruth\OneDrive\Desktop\HW1_Submission_Excel\HW1_Submission_Excel\Resources\Theater_Outcomes_vs_Launch.png) 
  
 * We can see from the chart (blue line) that the total number of Successful campaigns are high in the month of May, June and July. 
 
