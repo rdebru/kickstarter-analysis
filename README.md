@@ -33,26 +33,26 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
 
-* The Month of May has most success rate in theater category Pick periods for successful campaigns in theater category are in the summer season (MAY, JUNE and JULY) correlating with school closures and family vacations
-* Campaigns are less successful towards the end of the year October to December in Theater Category 
+	* The Month of May has most success rate in theater category Pick periods for successful campaigns in theater category are in the summer season (MAY, JUNE and JULY) correlating with school closures and family vacations
+	* Campaigns are less successful towards the end of the year October to December in Theater Category 
 
 - What can you conclude about the Outcomes based on Goals?
 
-* We can conclude that the most successful campaigns have Goals less than $5000, Louise has a goal of over $10000 which is twice of the successful goals. Louse should revise her goal.
+	* We can conclude that the most successful campaigns have Goals less than $5000, Louise has a goal of over $10000 which is twice of the successful goals. Louse should revise her goal.
 
 - What are some limitations of this dataset?
 
-* There is no data for the backers. This will would have helped with targeting the population 
-* We do not have data for location of specific cities where the campains are performed. This would have helped to identify specific cities where the campaigns are successful.
+	* There is no data for the backers. This will would have helped with targeting the population 
+	* We do not have data for location of specific cities where the campains are performed. This would have helped to identify specific cities where the campaigns are successful.
 
 - What are some other possible tables and/or graphs that we could create? 
 
-* Can create a pie chart for Analysis of Outcomes based on Launch dates. Chart is on Kickstarter_Challenge file on Outcomes based on Goals worksheet
+	* Can create a pie chart for Analysis of Outcomes based on Launch dates. Chart is on Kickstarter_Challenge file on Outcomes based on Goals worksheet
 
-* Can create a bar chart for Analysis of Outcomes based on Goals.Chart is on Kickstarter_Challenge file on Outcomes based on Goals worksheet
+	* Can create a bar chart for Analysis of Outcomes based on Goals.Chart is on Kickstarter_Challenge file on Outcomes based on Goals worksheet
 
-* For Analysis of Outcomes based on Goals, we can create table for the for Successful, Fail and Cancel columns using statistical calculations. On Kickstarter sheet, set filter to Plays on the Subcategory column and to successful on the Outcome column. Copy the data and paste into a different sheet1. Then Create four columns on separate sheet as in `Descriptive Statistics` sheet. Then calculate the mean, median, Standard deviation, Lower Quartile, Upper Quartile and IQR based on goal column of sheet1 and populate `Successful` column. Repeat steps for `Fail` and `Cancel` columns. We can see the spread of the data from the mean and standard deviation. We can also identify outliers using mean and IQR data `(Upper Quartile+(1.5 X IQR) and Lower Quartile-(1.5 X IQR))`. 
-* Can also create statistical chart for the analysis of the Outcomes based on Goals which can help identify the spread of data and outliers. Clear all filters on Kickstarter worksheet and set filter for Subcategory to plays and for outcomes column to Successful. Then Select Goal column and create the Box and Whisker chart. We can see from the graph mean, median, Upper quartile, lower quartile and highest data points within the upper quartile plus `(1.5 X IQR)`. All the data points above the top line `(Upper quartile plus (1.5 X IQR))` in the chart are outliers that is goals > $9500.Chart is on Kickstarter_Challenge file on Box and Whisker plot worksheet.
+	* For Analysis of Outcomes based on Goals, we can create table for the for Successful, Fail and Cancel columns using statistical calculations. On Kickstarter sheet, set filter to Plays on the Subcategory column and to successful on the Outcome column. Copy the data and paste into a different sheet1. Then Create four columns on separate sheet as in `Descriptive Statistics` sheet. Then calculate the mean, median, Standard deviation, Lower Quartile, Upper Quartile and IQR based on goal column of sheet1 and populate `Successful` column. Repeat steps for `Fail` and `Cancel` columns. We can see the spread of the data from the mean and standard deviation. We can also identify outliers using mean and IQR data `(Upper Quartile+(1.5 X IQR) and Lower Quartile-(1.5 X IQR))`. 
+	* Can also create statistical chart for the analysis of the Outcomes based on Goals which can help identify the spread of data and outliers. Clear all filters on Kickstarter worksheet and set filter for Subcategory to plays and for outcomes column to Successful. Then Select Goal column and create the Box and Whisker chart. We can see from the graph mean, median, Upper quartile, lower quartile and highest data points within the upper quartile plus `(1.5 X IQR)`. All the data points above the top line `(Upper quartile plus (1.5 X IQR))` in the chart are outliers that is goals > $9500.Chart is on Kickstarter_Challenge file on Box and Whisker plot worksheet.
 
 
 
